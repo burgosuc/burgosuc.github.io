@@ -1,0 +1,52 @@
+
+*{
+	margin: 0px; padding: 0px;
+}
+.nombre{
+	text-align: left;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 500;
+	font-size: 20px;
+}
+.info{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	font-size: 15px;
+}
+.foto-cv{
+	height: 180px;
+	width: 180px;
+}
+.nav-link{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 500;
+	font-size: 50px;
+}
+.principal{
+	background-color: rgb(214, 218, 217);
+}
+h3{
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 500;
+	font-size: 35px;
+}
+.resumen{
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	font-size: 18px;
+}
+.card-title{
+	text-align: justify;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	font-size: 18px;
+}
+.card-img-top{
+	width: 400px;
+	height: 400px;
+}
+.pie{
+	background-color: black;
+}

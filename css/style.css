@@ -1,71 +1,66 @@
-
-*{
-	margin: 0px; padding: 0px;
+* {
+  margin: 0px;
+  padding: 0px;
 }
-.nombre{
-	text-align: left;
-	font-family: 'Roboto', sans-serif;
-	font-weight: 500;
-	font-size: 20px;
+.nombre {
+  text-align: left;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
 }
-.info{
-	font-family: 'Roboto', sans-serif;
-	font-weight: 300;
-	font-size: 15px;
+.info {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: 15px;
 }
-.foto-cv{
-	height: 180px;
-	width: 180px;
+.foto-cv {
+  height: 180px;
+  width: 180px;
 }
-.nav-link{
-	font-family: 'Roboto', sans-serif;
-	font-weight: 500;
-	font-size: 50px;
+.nav-link {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 50px;
 }
-.principal{
-	background-color: rgb(214, 218, 217);
+.principal {
+  background-color: rgb(214, 218, 217);
 }
-h3{
-	text-align: center;
-	font-family: 'Roboto', sans-serif;
-	font-weight: 500;
-	font-size: 35px;
+h3 {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 35px;
 }
-.resumen{
-	text-align: center;
-	font-family: 'Roboto', sans-serif;
-	font-weight: 300;
-	font-size: 18px;
+.resumen {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: 18px;
 }
-.card-title{
-	text-align: justify;
-	font-family: 'Roboto', sans-serif;
-	font-weight: 300;
-	font-size: 18px;
+.card-body {
+  text-align: justify;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: 18px;
 }
-.card-img-top{
-	width: 400px;
-	height: 400px;
+.card-img-top {
+  width: 400px;
+  height: 400px;
 }
-.pie{
-	background-color: black;
-	text-align: justify;
-	font-family: 'Roboto', sans-serif;
-	font-weight: 300;
-	font-size: 12px;
+.pie {
+  background-color: black;
+  text-align: justify;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: 14px;
 }
-.academica{
-	background-color: rgb(214, 218, 217);
+.academica {
+  background-color: rgb(214, 218, 217);
 }
-.porta{
-	background-color: rgb(214, 218, 217);
-}
-.porta-title{
-	text-align: center;
-	font-family: 'Roboto', sans-serif;
-	font-weight: 500;
-	font-size: 35px;
-}
-.card{
-	width: 500px;
+.portafilio-carac {
+  background-color: rgb(214, 218, 217);
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 35px;
 }
